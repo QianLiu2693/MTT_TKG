@@ -12,8 +12,8 @@ The source code necessary to reproduce the results in this paper will be made pu
 * python get_time_aware.py
 
 * python time_guided.py
-
-*python rr_gcn.py
+  
+* python rr_gcn.py
   
 * tools.py
 
